@@ -1,0 +1,14 @@
+{
+  "name": "wrapped-yield-source",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.2.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.1.0",
+    "@pooltogether/fixed-point": "^1.0.0",
+    "@pooltogether/yield-source-interface": "^1.0.1"
+  }
+}
